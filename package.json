@@ -1,0 +1,16 @@
+{
+  "name": "day-34-task-node",
+  "version": "1.0.0",
+  "description": "day 34 task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hotel-server": "node --watch hotel-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
